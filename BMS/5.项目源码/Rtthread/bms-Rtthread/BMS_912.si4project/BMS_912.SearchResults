@@ -1,0 +1,4 @@
+---- BMS_SysInitialize Matches (3 in 3 files) ----
+bms_app.c (User\Bms) line 19 : void BMS_SysInitialize(void)
+bms_app.h (User\Bms) line 5 : void BMS_SysInitialize(void);
+main in main.c (Core\Src) :   BMS_SysInitialize();

@@ -1,0 +1,9 @@
+bms\test.o: ..\User\test_autosar_rtw\test.c
+bms\test.o: ..\User\test_autosar_rtw\test.h
+bms\test.o: E:\microControllUnit\software\IDE\keil\ARM\ARMCC\Bin\..\include\math.h
+bms\test.o: ..\User\test_autosar_rtw\rtwtypes.h
+bms\test.o: ../User/test_autosar_rtw/stub/Rte_test.h
+bms\test.o: ../User/test_autosar_rtw/stub/Rte_Type.h
+bms\test.o: ../User/test_autosar_rtw/stub/Std_Types.h
+bms\test.o: ../User/test_autosar_rtw/stub/Compiler.h
+bms\test.o: ../User/test_autosar_rtw/stub/Platform_Types.h

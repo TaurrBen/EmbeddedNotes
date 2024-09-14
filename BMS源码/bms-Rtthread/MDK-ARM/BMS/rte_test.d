@@ -1,0 +1,15 @@
+bms\rte_test.o: ..\User\test_autosar_rtw\Rte_test.c
+bms\rte_test.o: ../User/test_autosar_rtw/stub/Rte_test.h
+bms\rte_test.o: ../User/test_autosar_rtw/stub/Rte_Type.h
+bms\rte_test.o: ../User/test_autosar_rtw/stub/Std_Types.h
+bms\rte_test.o: ../User/test_autosar_rtw/stub/Compiler.h
+bms\rte_test.o: ../User/test_autosar_rtw/stub/Platform_Types.h
+bms\rte_test.o: ../User/test_autosar_rtw/rtwtypes.h
+bms\rte_test.o: ../User/Bms/Core/bms_monitor.h
+bms\rte_test.o: E:\microControllUnit\software\IDE\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+bms\rte_test.o: ../User/Bms/Core/bms_type.h
+bms\rte_test.o: ../User/Bms/bms_config.h
+bms\rte_test.o: ../User/Bms/Hal/bms_hal_config.h
+bms\rte_test.o: E:\microControllUnit\software\IDE\keil\ARM\ARMCC\Bin\..\include\stdint.h
+bms\rte_test.o: ../User/Bms/Core/bms_global.h
+bms\rte_test.o: ..\User\test_autosar_rtw\test_app.h
